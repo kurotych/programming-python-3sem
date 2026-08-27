@@ -59,3 +59,5 @@ nav:
     - module1/11-dialogs-lecture.md
     - module1/12-dialogs-practice.md
     - module1/13-signals-slots-lecture.md
+  - Модуль 2:
+    - module2/14-app-state-structure-lecture.md
