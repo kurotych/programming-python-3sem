@@ -71,3 +71,6 @@ nav:
     - module2/22-error-handling-settings-lecture.md
     - module2/23-error-handling-settings-practice.md
     - module2/24-pyinstaller-lecture.md
+  - Модуль 3:
+    - module3/25-numpy-intro-lecture.md
+    - module3/26-ndarray-practice.md
