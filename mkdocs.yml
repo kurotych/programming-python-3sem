@@ -74,3 +74,5 @@ nav:
   - Модуль 3:
     - module3/25-numpy-intro-lecture.md
     - module3/26-ndarray-practice.md
+    - module3/27-indexing-slicing-broadcasting-lecture.md
+    - module3/28-indexing-broadcasting-practice.md
