@@ -88,3 +88,6 @@ nav:
     - module3/32-pandas-intro-lecture.md
     - module3/33-pandas-basics-practice.md
     - module3/34-pandas-aggregation-queries-lecture.md
+  - Модуль 4:
+    - module4/35-matplotlib-intro-lecture.md
+    - module4/36-basic-plots-practice.md
